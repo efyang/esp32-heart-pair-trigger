@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">esp32-heart-pair-trigger</string>
+    <string name="action_settings">Settings</string>
+</resources>
